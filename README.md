@@ -1,1 +1,1 @@
-The practice python notebooks from Google Colab.
+Practice notebooks to learn Pytorch which also serves as notes. 
